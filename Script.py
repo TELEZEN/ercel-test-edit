@@ -10,6 +10,9 @@ Tʜᴇsᴇ Aʀᴇ Tʜᴇ Aᴠᴀɪʟᴀʙʟᴇ Lɪsᴛ Oғ Mʏ Cᴏᴍᴍᴀɴ�
   ✫ Lᴀɴɢᴜᴀɢᴇ:  𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
   ✫ Dᴀᴛᴀ Bᴀsᴇ:  𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
   ✫ Bᴏᴛ Sᴇʀᴠᴇʀ:  𝙷𝙴𝚁𝙾𝙺𝚄"""
+    FILTER_TXT = ' """ Hey {}.. How are you?,
+        Currently, The Filter option is in maintenance.. I will let you know when it is released."""
+       
     SOURCE_TXT = """<b>NOTE:</b>
 - Ercel is a clone of Eva Maria - a open source project. 
 - Source - https://github.com/EvamariaTG/EvaMaria  
