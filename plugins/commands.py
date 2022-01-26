@@ -52,6 +52,8 @@ async def start(client, message):
             InlineKeyboardButton('Nᴇᴇᴅ Hᴇʟᴘ?', callback_data='help'),
             InlineKeyboardButton('Aʙᴏᴜᴛ Mᴇ', callback_data='about'),
             InlineKeyboardButton('Mʏ Dᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/Arjun_La_Lis_A')
+            ],[
+            InlineKeyboardButton('FILTΞRS', 'This option is not ready yet. I will message you whet it is released...',show_alert=True)
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
