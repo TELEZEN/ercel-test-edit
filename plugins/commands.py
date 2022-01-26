@@ -53,7 +53,7 @@ async def start(client, message):
             InlineKeyboardButton('Aʙᴏᴜᴛ Mᴇ', callback_data='about'),
             InlineKeyboardButton('Mʏ Dᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/Arjun_La_Lis_A')
             ],[
-            InlineKeyboardButton('FILTΞRS', callback data='filtermessage')
+            InlineKeyboardButton('FILTΞRS', callback data='filter9')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -100,7 +100,7 @@ async def start(client, message):
             InlineKeyboardButton('Aʙᴏᴜᴛ Mᴇ', callback_data='about'),
             InlineKeyboardButton('Mʏ Dᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/Arjun_La_Lis_A')
             ],[
-            InlineKeyboardButton('FILTΞRS', show_alert='This option is not ready yet. I will message you whet it is released...')
+            InlineKeyboardButton('FILTΞRS', callback data='filter9')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
